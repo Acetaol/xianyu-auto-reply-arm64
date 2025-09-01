@@ -1,5 +1,5 @@
 # 使用Python 3.11作为基础镜像
-FROM registry.cn-hangzhou.aliyuncs.com/library/python:3.11-slim-bookworm
+FROM docker.m.daocloud.io/library/python:3.11-slim-bookworm
 
 # 设置标签信息
 LABEL maintainer="zhinianboke"
